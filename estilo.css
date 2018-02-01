@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    
+
+}
+  
+    body{
+        font: 300 16ps Oswald;
+    }
+
+
+
+#login{
+    width: 300px;
+    margin:0 auto;
+    position:relative;
+    top:20px;
+}
+
+#login label{
+    display:block;
+    padding: 10px;
+}
+.sb{
+    display:block;
+    border: none;
+    width: 250px;
+    height: 40px;
+    margin-top: 10px;
+}
+.txt{
+    border:none;
+    height: 40px;
+    width: 250px;
+    border: thin solid #f1f1f1;
+}
