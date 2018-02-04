@@ -17,7 +17,8 @@
     width: 300px;
     margin:0 auto;
     position:relative;
-    top:20px;
+    top:200px;
+    
 }
 
 #login label{
@@ -36,4 +37,22 @@
     height: 40px;
     width: 250px;
     border: thin solid #f1f1f1;
+}
+header{
+    
+    height: 45px;
+	width: 100%;
+	position: relative;
+    background-color:#1D9AC0;
+}
+header h1{
+    padding: 10px;
+color: #FFF;
+text-shadow: 2px 4px 2px rgba(0,0,0,0.3);
+}
+
+#acomodar{
+    margin: 0 auto;
+    width: 250px;
+    
 }
